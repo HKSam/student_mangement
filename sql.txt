@@ -1,0 +1,17 @@
+//学生表
+CREATE TABLE student(
+STID INT AUTO_INCREMENT PRIMARY KEY,
+STNAME VARCHAR(20),
+STSEX VARCHAR(10),
+STAGE VARCHAR(10),
+STPHONE VARCHAR(20)
+);
+//管理员表，起这个名我们要注意到，我们在工厂的bean类名为：UserStudent。这两者是必须对应的。
+CREATE TABLE userstudent(
+userid VARCHAR(30) PRIMARY KEY,
+name VARCHAR(30),
+password VARCHAR(32)
+);
+//测试数据
+INSERT INTO userstudent(userid,name,password) VALUES ('fuzhu','fuzhu','751197996');
+INSERT INTO student(STID,STNAME,STSEX,STAGE,STPHONE) VALUES (123,'fuzhufuzhu',boy','20','13531477062');

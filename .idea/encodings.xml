@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/fuzhu/studentmanager/DAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fuzhu/studentmanager/DAOException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fuzhu/studentmanager/DAOStudentFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fuzhu/studentmanager/DataUpdateServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/fuzhu/studentmanager/StudentInformationServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/DAOFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/IUserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/RegisterServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/Slf4jTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/UserDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/UserDAOProxy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/user/Userstudent.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
